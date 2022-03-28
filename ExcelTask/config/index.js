@@ -1,0 +1,4 @@
+var config = {
+  APP_SECRET: "75f054ee42fed43543c9265ed886a299",
+  APP_ID: "2485712741684842"
+};
